@@ -1,0 +1,5 @@
+tom, Go shop, Buy butter, 30 Jan 2023, 2 Feb 2023, No
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+jeff, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 14 Nov 2019, No
+jeff, Go shop, Buy milk, 30 Jan 2023, 24 Feb 2023, No
+hugh, Go shop, Buy suger, 30 Jan 2023, 24 Feb 2023, Yes
